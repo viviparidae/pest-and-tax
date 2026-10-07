@@ -46,8 +46,8 @@
 
 * **Repository Name**: `pest-and-tax`
 * **Genre**: スローライフ農園アドベンチャー × タワーディフェンス
-* **Target Platform**: TBD (PC / Console)
-* **Engine**: TBD (Unity / Unreal Engine / Godot etc.)
+* **Target Platform**: TBD
+* **Engine**: TBD
 
 ---
 
